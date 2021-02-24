@@ -27,6 +27,7 @@ repo of useful stuff
 - https://owasp.org/www-project-top-ten/
 - https://en.wikipedia.org/wiki/Subresource_Integrity
 - https://loader.io/
+- https://www.ncsc.gov.uk/collection/cloud-security/implementing-the-cloud-security-principles
 ### Frontend Performance
 - https://www.gov.uk/service-manual/technology/how-to-test-frontend-performance
 - https://csstriggers.com/
