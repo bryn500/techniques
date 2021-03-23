@@ -51,6 +51,8 @@ repo of useful stuff
 - https://www.sitepoint.com/sql-server-full-text-search-protips-part-3-getting-ranked/
 
 ## Code performance
+- https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0
+
 __Frugal Object__:
 Collection that is specialized for holding 0, 1, 2 and falls back to array/list for more items
 (Create your own collection)
