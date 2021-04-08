@@ -77,3 +77,7 @@ Rather than a class that represents one, have a struct that contains arrays for 
 __Buffered Builder__:
 When making sequential changes to immutable type use a buffer.
 (e.g. StringBuilder)
+
+
+__AZ Course Files (500)__
+https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/
