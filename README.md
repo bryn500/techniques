@@ -10,6 +10,8 @@ repo of useful stuff
 - https://dotnetfiddle.net/
 - https://jshint.com/
 - https://www.mockaroo.com/
+- https://lucybot-inc.github.io/api-spec-converter/
+- https://editor.swagger.io/
 ### Security
 - https://csp-evaluator.withgoogle.com/
 - https://www.lastpass.com/password-generator
