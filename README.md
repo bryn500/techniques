@@ -85,7 +85,8 @@ __AZ Course Files (500)__
 https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/
 
 ## Helpful links
-https://stackoverflow.com/questions/45849926/how-to-find-connection-of-ssis-package-in-a-sql-job-step
-https://stackoverflow.com/questions/36335345/web-api-fire-and-forget
-https://stackoverflow.com/questions/64602/what-are-differences-between-assemblyversion-assemblyfileversion-and-assemblyin/65062#65062
-https://k6.io/docs/testing-guides/api-load-testing/#different-types-of-api-load-testing
+- https://stackoverflow.com/questions/45849926/how-to-find-connection-of-ssis-package-in-a-sql-job-step
+- https://stackoverflow.com/questions/36335345/web-api-fire-and-forget
+- https://stackoverflow.com/questions/64602/what-are-differences-between-assemblyversion-assemblyfileversion-and-assemblyin/65062#65062
+- https://k6.io/docs/testing-guides/api-load-testing/#different-types-of-api-load-testing
+- https://stackoverflow.com/questions/57223110/where-is-ildasm-in-visual-studio-2019 
