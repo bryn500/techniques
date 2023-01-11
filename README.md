@@ -89,4 +89,20 @@ https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/
 - https://stackoverflow.com/questions/36335345/web-api-fire-and-forget
 - https://stackoverflow.com/questions/64602/what-are-differences-between-assemblyversion-assemblyfileversion-and-assemblyin/65062#65062
 - https://k6.io/docs/testing-guides/api-load-testing/#different-types-of-api-load-testing
-- https://stackoverflow.com/questions/57223110/where-is-ildasm-in-visual-studio-2019 
+- https://stackoverflow.com/questions/57223110/where-is-ildasm-in-visual-studio-2019
+
+## Browser settings
+
+edge://flags/, chrome://flags/
+
+Enable: Allow invalid certificates for resources loaded from localhost
+
+![image](https://user-images.githubusercontent.com/12498120/211779649-dae6f99c-29ee-4a4a-9e2b-9c359986b29f.png)
+
+Disable HSTS for localhost in browser
+
+edge://net-internals/#hsts, chrome://net-internals/#hsts
+
+Delete localhost domain from domain security policies
+
+![image](https://user-images.githubusercontent.com/12498120/211779899-446388b7-1ed7-4096-b17f-44b4303df593.png)
